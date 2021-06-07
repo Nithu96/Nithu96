@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AI Project.
+- 🔭 I’m currently working on ML Project.
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with x
