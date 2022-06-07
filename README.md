@@ -4,7 +4,7 @@
 </p>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Nithu96&label=Profile%20views&color=0e75b6&style=plastic" alt="Nithu96" /> 
-  <a href="https://lk.linkedin.com/in/dinukanavaratna/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/niwarthana-nihathamani"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/github/followers/Nithu96?label=Follow&style=social" alt="Nitu96" />
 </p>
 <p align="center">
