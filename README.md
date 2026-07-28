@@ -14,8 +14,6 @@
 
 <h2> Hello 👋</h2>
 
--  Hi, I'm Niwa 👋
-
 - 🎓 MSc Data Science & Analytics | BEng Software Engineering — University of Westminster
 - 💼 Currently: Team Leader at William Hill | Freelance Technical Support at Get Dopa Ltd
 - 📊 Building a Power BI + Excel portfolio project — cleaning data, designing dashboards, publishing to Power BI Service
