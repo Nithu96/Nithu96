@@ -20,7 +20,7 @@
 - 🔭 Background in Flutter app development, SQL, and Python
 - 🌱 Sharpening my data analytics & technical support skills
 - 🤝 Open to Application Support, IT Support, Technical Support & Data Analyst opportunities
-- 📫 Reach me: niwadealwis96@gmail.com |
+- 📫 Reach me: niwadealwis96@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm crazy and I know it...😉
 
